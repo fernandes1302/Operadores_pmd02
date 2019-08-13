@@ -1,0 +1,19 @@
+Operadores de comparação
+
+Igual (==) - verifica se o valor comparado é Igual
+idÊnticos (===) - verifica se o valor comparado são Igual
+e do mesmo tipo 
+'10' === 10
+string === int 
+diferente (!=) - verifica se o valores comparado são diferente 
+não identicos (!==) - verifica se o tipo e valor são diferente
+menor (<) varifica se o valor da esqueda e menor que da direita 
+maior (>) varifica se o valor da esqueda e maior que da direita 
+menor (<=)varifica se o valor da esqueda e menor ou igual da direita 
+maior (>=)varifica se o valor da esqueda e maior ou igual da direita 
+
+Operadores logicos
+
+E (&&) - verdadeiro se todas as expressões forem verdadeiras 
+OU (||) - verdadeiro se uma das exprecões ser verdadeiras
+negação (!) - inverte o resultado da expreção de comparação
